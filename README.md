@@ -1,4 +1,4 @@
-# LSTM_Neural-Networks
+# LSTM_Neural-Network - Time Series 
 
 Having used ARIMA time series forecasts in the past I wanted to explore new methodologies as an alternative. I got into deep learning after I found that time series are possible with recurrent neural networks. I'm specifically working with Long Short-Term Memory recurrent neural network due to their ability to offset the vanishing gradient problem. 
 
